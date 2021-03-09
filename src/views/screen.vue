@@ -5,9 +5,9 @@
         <img :src="headerBorderSrc" alt=""  class="screen-header-img">
       </div>
       <span class="logo">
-        <img :src="logoSrc" alt=""  class="screen-header-logo">
+        <img :src="？logoSrc" alt=""  class="screen-header-logo">
       </span>
-      <span class="title" :style="titleStyle">公共文化效能评估大数据智能分析平台</span>
+      <span class="title" :style="titleStyle">XXXXXXXXXXXXXXXXX</span>
       <div class="title-right">
         <img :src="themeSrc" class="qiehuan" @click="changeTheme">
         <span class="datetime" v-text="timeData" :style="timeDateStyle"></span>
