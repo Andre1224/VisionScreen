@@ -1,0 +1,41 @@
+[{
+    "name": "阅览室A-101",
+    "sales": 19,
+    "stock": 120
+}, {
+    "name": "阅览室A-102",
+    "sales": 56,
+    "stock": 120
+}, {
+    "name": "阅览室A-103",
+    "sales": 20,
+    "stock": 120
+}, {
+    "name": "阅览室A-104",
+    "sales": 84,
+    "stock": 120
+}, {
+    "name": "阅览室A-105",
+    "sales": 68,
+    "stock": 120
+}, {
+    "name": "自习室D-301",
+    "sales": 123,
+    "stock": 240
+}, {
+    "name": "自习室D-302",
+    "sales": 98,
+    "stock": 240
+}, {
+    "name": "自习室D-305",
+    "sales": 130,
+    "stock": 240
+}, {
+    "name": "自习室D-306",
+    "sales": 89,
+    "stock": 240
+}, {
+    "name": "自习室D-308",
+    "sales": 150,
+    "stock": 240
+}]
